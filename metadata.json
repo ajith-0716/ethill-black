@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield OS - Ethical Security & Defense Terminal",
+  "description": "Interactive cybersecurity operations workstation with biometric authentication, defensive security analysis tools, audit terminal, and vulnerability mitigation simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
